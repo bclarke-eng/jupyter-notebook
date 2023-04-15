@@ -8,9 +8,11 @@ Locally, files are stored in a pip-env. To activate this project's virtualenv, r
 ## Libraries Installed
 This project uses Python 3.11 and VSCode. 
 
-* Jupyter Nsotebook 
+* Jupyter Notebook 
 * Numpy
 * Pandas
 * Matplotlib
 * Scipy
 * Plotly
+* Pytest and Pytest-cov
+* Flake8
