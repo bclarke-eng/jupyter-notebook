@@ -1,4 +1,4 @@
-# 2023 FIFA sWomen's World Cup Predictor
+# 2023 FIFA Women's World Cup Predictor
 
 A repository for learning the basics of Pandas, other data analysis and scientific Python libraries, and Jupyter notebook by predicting the outcome of the 2023 FIFA Women's World Cup.
 
