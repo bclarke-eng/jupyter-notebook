@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 notebook = "*"
 pandas = "*"
+numpy = "*"
+matplotlib = "*"
+scipy = "*"
+plotly = "*"
 
 [dev-packages]
 
